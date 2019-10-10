@@ -1,0 +1,1316 @@
+Job_Title,Job_Description,company,location ,Industry,Employment_type,Job Function,Experience_Level
+Devops/Sysops Engineer,"Trendyol'da misyonumuz: müşterilerimize en iyi alışveriş deneyimini, her zaman ve her yerde, teknoloji ile yaşatmak. Müşterilerimiz her zaman önceliğimiz! 
+
+16 milyon müşterimiz ve 2000 kişilik ekibimiz ile Türkiye’nin ve bölgenin en büyük ve en hızlı büyüyen mobil ticaret şirketiyiz. 2018'de dünyanın en büyük e-ticaret şirketi Alibaba, Türkiye'nin bugüne kadarki en büyük internet yatırımını yaparak yatırımcımız ve stratejik ortağımız oldu. 
+
+Hedefimizi yüksek tutup her zaman daha iyisini yapmaya çalışır, sürekli test eder ve gelişiriz. Paylaştığımız geri bildirimler, yaptığımız hatalardan öğrenmek ve daha iyisini yapmak için çalışmak kültürümüzün en önemli ögelerinden. 
+
+Hızla büyüyen ve gelişen ekibimizden aldığımız güç ile global pazarlarda da büyüyoruz. Her gün öğrenmek, gelişmek istiyorsan, sonuç odaklıysan ve ekip çalışmasını seviyorsan, data ile yaşıyorsan sen de bize katıl!
+  Teknoloji ekibimize dahil etmek üzere Devops / Sysops Engineer pozisyonumuza sistem ve altyapı konularında deneyimli, disiplinli, çözüm odaklı ve gelişime önem veren ekip arkadaşı arıyoruz. Trendyol’a ve ekibimize kısa sürede uyum sağlayarak ekip ile birlikte müşteri memnuniyetini artıracak çözümler geliştirebilecek proaktif ve dinamik adaylar tercihimiz.
+
+Sistem ve Altyapı bölümümüz teknoloji odağıyla hızlı büyüyen Trendyol’un sahne arkasındaki ekibi! Trendyol’un sürekli stabil ve performanslı çalışması için çözümler ve sistemler geliştirerek müşteri memnuniyetini sağlıyor. Trendyol’un sevilen marka olmasında ekibin sistem ve altyapıların yönetiminde kritik sorumluluğu bulunuyor.
+
+
+ARADIKLARIMIZ
+Tercihen üniversitelerin ilgili bölümlerinden mezun,
+Alanında en az 2 yıl tecrübesi olan,
+Linux işletim sistemleri konusunda deneyimli,
+Amazon AWS servisleri (EC2, CloudFormation, Elastic Beanstalk) ile çalışmış,
+Ansible, Chef, Puppet, Saltstack araçlarından birini kullanmış,
+Jenkins,Teamcity veya Bomboo araçlarından birini kullanmış,
+Docker, Rkt, Swarm, Mesos, Kubernetes, OpenShift gibi container cluster yapılarından bir veya birden fazlasını kullanmış,
+PRTG, Graphite, Prometheus, Ganglia, Nagios benzeri monitoring araçları kullanmış,
+Python, GoLang, Powershell, Bash script dillerinden bir veya birden fazlasında çalışabilen,
+Distributed, Scalable, Automated sistemler oluşturmaya ve geliştirmeye hevesli,
+Infrastructure as code perspektifine yakın,
+Literatürü takip edebilecek seviyede İngilizce bilen,
+Etkili iletişim, problem çözme ve teknik dökümantasyon becerilerine sahip,
+
+SORUMLULUKLARIN
+Container cluster yapılarının kurulması,yapılandırılması ve devamlılığın sağlanması,
+Uygulamaların deploy edilmesi için CI / CD süreçlerine uygun pipeline ların hazırlanması,
+Sistemlerin log, performans ve kapasite metriklerinin incelenip tanımlanan periyodik kontrol listelerinin doldurulması,
+Sorumlu olunan sistemlerin monitor edilmesi ve prosedür, döküman ve raporlarının düzenli olarak üretilmesi,
+
+PEKİ SANA NELER SUNUYORUZ?
+İlk günden aldığın sorumluluklarla kendini geliştirme ve öğrenme imkanı.
+Açık iletişim, çok boyutlu liderlik ve takım çalışmasına önem veren ekip.
+Genç, yetenekli ekibimizle birlikte e-ticaretin geleceğini şekillendirme fırsatı.
+Ve tabi ki çok çalışıp çok eğleniyoruz, hem açık ofis hem de happy hour'larımız var :)
+Kıdem Düzeyi
+Orta-Üst Düzey Yönetici
+Sektör
+İnternet Bilgisayar Yazılımı
+İstihdam Türü
+Tam Zamanlı
+İş Alanları
+Diğer Bilgi Teknolojisi",Trendyol Group,,"İnternet,Bilgisayar Yazılımı",Tam Zamanlı,Diğer Bilgi Teknolojisi,Orta-Üst Düzey Yönetici,https://www.linkedin.com/jobs/search/?keywords=Python&location=istanbul&start=0
+Marketing Analytics Supervisor,"İlanı veren
+Busra Ilkyaz 2.
+HR Business Partner at n11.com
+Qualifications
+
+Min 5 years experience within a data analytics function in the marketing industry with at least 2 year experience working in online sector.
+Hands on experience with the analysis of large data sets to develop insights and learnings (data mining).
+Strong background in customer acquisition, re-engagement and retention strategies.
+Strong analytical skills with understanding of statistical techniques: analyzing data, drawing conclusions, and developing actionable Marketing recommendations.
+Experience with data mining & statistical analysis software products-SPSS Modeler, MSTR, Tableau.
+Knowledge of visual techniques for data analysis and presentation.
+Knowledge of current metrics within the online industry.
+Knowledge of web measurement technologies: Google Analytics Premium, Google Cloud
+Campaign management knowledge and taking Marketing actions based on the insight and analysis that are done.
+Database analysis skills: MS Access/SQL, Python is plus.
+Advanced English skills.
+
+
+Main Responsibilities
+
+Working with the Marketing Analytics Manager to create insights from data.
+Determining insights and tracking requirements; manage measurement systems for data capture.
+Visual data preparation and creating insights by digging the data with SPSS, Tableau or any other tool.
+Drawing the customer journey of the customers, putting KPIs to measure the efficiency of it, optimize& improve each KPI.
+Business recommendations to improve the insights that you’ve found.
+Implementing campaigns and all other Marketing actions with related teams.
+Working closely with all departments to collect what analysis do they need.
+Kıdem Düzeyi
+Uzman
+Sektör
+İnternet Perakende
+İstihdam Türü
+Tam Zamanlı
+İş Alanları
+Pazarlama Bilgi Teknolojisi Satış",n11.com,"Istanbul, Turkey","İnternet,Perakende",Tam Zamanlı,Pazarlama Bilgi Teknolojisi Satış,Uzman,https://www.linkedin.com/jobs/search/?currentJobId=1532286516&keywords=Python&location=istanbul
+Customer Experience Specialist,"We are looking for a Customer Experience Specialist to join our growing customer experience team.
+As a Customer Experience specialist you’ll be responsible all CX data analytics projects and Journey design projects. 
+A successful Customer Experience Specialist will be able to analyze qualitative and quantitative data, market and customer trends and competitor activities in aims to understand customer behavior dynamics and lead through a customer-centric approach throughout the organization.
+
+QUALIFICATIONS
+
+ Bachelor's degree in a technical or analytical discipline is required,
+Advanced MS Office knowledge especially in excel and PowerPoint,
+Experience with one of the softwares is a must: SAS, Python or R,
+Good knowledge in Customer Experience frameworks and measurement is a plus,
+Excellent command of English, 
+Data science and predictive modeling experience preferred,
+Data visualization skills is a plus,
+Good presentation and communication skills and able to influence others internally,
+Negotiation, analytical, persuasive and communication skills are critical,
+Customer Centric point of view,
+Being proactive, dynamic and teamplayer,
+No military service for male candidates.
+
+
+JOB DESCRIPTION
+
+Working with cross functional teams to improve and refine customer journeys, set relevant projects and manage / assist those projects,
+Responsibility of monthly Customer Experience Committee & Governance meetings’ organization with on time and high qualified delivery,
+Support ongoing analysis and reporting structure, Internal Customer Experience Program,
+Expert at handling & pre-process data with SAS, Python or R. Conduct exploratory & ad-hoc data analyses,
+Translate data into customer behavioral insights to drive targeting and segmentation strategies, and communicate clearly and effectively to business partners and senior leaders all findings,
+A seeker of insight, who is driven to use data that, presented in the right way at the right time, take action and improves the experience of our customers,
+Partner with our Market Research team on external Customer Experience methodologies and best practice.
+Kıdem Düzeyi
+Uzman
+Sektör
+Petrol ve Enerji
+İstihdam Türü
+Tam Zamanlı
+İş Alanları
+Analiz Uzmanı Müşteri Hizmetleri Satış",Enerjisa,"Istanbul, Turkey",Petrol ve Enerji,Tam Zamanlı,Analiz Uzmanı Müşteri Hizmetleri Satış,Uzman,https://www.linkedin.com/jobs/search/?currentJobId=1498326185&keywords=Python&location=istanbul
+Python Developer,"İlanı veren
+Ahmet Can 2.
+Chief Operating Officer at Boomset
+We are seeking a hands-on, experienced and motivated individual who thrives in a fast-paced, entrepreneurial work environment keeping up with the pace and energy of our dynamic team and agile environment. You will use your development skills and consumer understanding to create great user experiences. 
+
+Responsibilities
+
+• Ensure various front-ends are operating as intended and databases are accessible
+• Update weekly task document
+• Participate in weekly project update meetings
+• Oversee/download and aggregate required text data as required
+• Maintain databases as required
+
+Requirements
+
+• BS degree in Computer Science or relevant departments
+• 5 to 7 years of demonstrable experience in Python
+• Solid understanding of Object-Oriented Design and Analysis, multi-processing, modern data transformation techniques, and SQL/No-SQL databases and distributed systems
+• Minimum 5 years of application development work with solid application design, coding, testing, maintenance and debugging skills
+• Familiarity with Python web stacks
+• Understanding of the threading limitations in python and multi-process architecture
+• In-depth knowledge of Django
+• Identify and suggest various opportunities to improve efficiency and functionality
+• Write reusable and testable code
+• Ability to multi-task with little supervision and work in a complex, deadline oriented environment
+• Self-motivated passionate technical professional, able to provide realistic time estimates and driven to achieve committed milestones
+• Possess a desire to learn, a drive to improve and a natural curiosity about how things work and why things are done in a certain way
+
+Preferred
+
+• Experience in an Agile environment
+• Strong communication, writing and presentation skills
+• Knowledge of current state-of-the-art digital business initiatives and technologies
+
+Personal Qualities 
+
+• Highly motivated, takes initiative. 
+• Excellent communications and analytical skills. 
+• Eagerness on self-improvement, open-minded, career-oriented
+• Ability to work alone without much supervision. 
+• Persistent and resilient; tenacious when encountering obstacles. 
+• High degree of self-confidence. 
+• Thrives in a fast-paced collaborative environment. 
+• Flexible attitude and ability to adapt to changing priorities. 
+• Demonstrates strong organizational, planning and personal time management skills.
+
+Please send a cover letter including net TL salary requirements and resume to jobs@boomset.com with “Senior Backend Developer” in the subject line.
+
+This position is based in Istanbul, Turkey
+
+For more on Boomset visit www.boomset.com.
+
+Boomset is an equal opportunity employer and committed to a diverse workforce.
+Kıdem Düzeyi
+Orta-Üst Düzey Yönetici
+Sektör
+Etkinlik Hizmetleri
+İstihdam Türü
+Tam Zamanlı
+İş Alanları
+Mühendislik Bilgi Teknolojisi",Boomset,"Kadıköy, Istanbul, Turkey",Etkinlik Hizmetleri,Tam Zamanlı,Mühendislik Bilgi Teknolojisi,Orta-Üst Düzey Yönetici,https://www.linkedin.com/jobs/search/?currentJobId=1459926467&keywords=Python&location=istanbul
+Python Developer,"İlanı veren
+Gizem Canay
+Recruiter
+InMail gönder
+Are you looking for a work environment to share your technical skills with other team members? Do you want to contribute in multiple project for continuous improvement and DevOps tasks? Do you want to work in projects with Agile practices and Agile project life cycles? This job is a good opportunity to show your skills and experience.
+  Brief Job Description:
+·         Participate requirement analysis, high and low level design of requirements, implementation and testing.
+·         Coordination with other developers for cross-functional requirements implementation and tests.
+·         Resolve issues proactively to deliver high quality products based on customers’ needs.
+·         Take ownership and responsibility for solutions provided.
+·         Work with team members collaboratively, complete code and document reviews and report issues on demand.
+
+
+Essential Skills Required :
+·         0 – 10 years of software development and continuous integration development (DevOps) experience.
+·         Strong algorithm understanding.
+·         Hands-on experience on Python scripting language is must.
+·         Hands-on experience on Bash/Batch scripting language,
+·         Strong background and hands-on experience for Linux operating systems and commands.
+·         Knowledge for software development life cycle(s).
+·         Basic knowledge about JSON/XML.
+·         Kibana, Elastic Search, Mongodb is plus.
+·         Experience on C++ or Java or C# programming language is a plus.
+·         Jenkins, Docker and Ansible technology experience is a plus.
+
+  Personal Skills Required:
+·         Agile oriented; focused on delivery and customer first.
+·         Adaptive; responsive for on-demand changes.
+·         Communicative; calling before sending e-mail.
+·         Open; collecting feedbacks and defining actions to improve.
+·         Team player; joining team’s tasks proactively and taking initiative to support other members.
+·         Willing to search, learn and adapt new technologies to projects.
+  Kıdem Düzeyi
+Orta-Üst Düzey Yönetici
+Sektör
+Telekomünikasyon Bilgi Teknolojisi ve Hizmetleri
+İstihdam Türü
+Tam Zamanlı
+İş Alanları
+Mühendislik Bilgi Teknolojisi",Huawei,"Istanbul, Turkey","Telekomünikasyon,Bilgi Teknolojisi ve Hizmetleri",Tam Zamanlı,Mühendislik Bilgi Teknolojisi,Orta-Üst Düzey Yönetici,https://www.linkedin.com/jobs/search/?currentJobId=1483716601&keywords=Python&location=istanbul
+Data Scientist,"Job Purpose/Role
+
+We are looking for a data scientist that will help us discover the valuable information hidden in vast amounts of data, to support our decision making processes. The primary focus will be to apply data mining techniques, to conduct statistical analysis, to build high quality prediction systems and to prepare and present results in a comprehensible form. Key responsibilities will be:
+
+Qualifications, Experience & Key skills:
+Qualification:
+
+•             Selecting features, building and optimizing classifiers and regression models using machine learning techniques,
+•             Data mining using state-of-the-art methods,
+•             Enhancing data collection procedures to include information that is relevant to internal analyses
+•             Enriching owned data and information with third party sources when needed,
+•             Processing, cleansing and verifying the integrity of data
+•             Doing regular performance reporting and ad-hoc analyses; presenting and explaining results in a comprehensible form
+•             Creating automated anomaly detection systems and constant tracking of its performance
+
+Experience & Key skills:
+
+Excellent understanding of machine learning techniques and algorithms, such as k-NN, SVM, Random Forests, GBM , Deeplearning, etc.
+University degree,
+Fluency in English (written and spoken) is required
+1-2 years work experience in relevant positions requiring above qualifications is preferable
+Experience with common data science toolkits, such as R, Python, etc. Excellence in at least one is highly preferable
+Experience with Microsoft Office applications such as Excel, Word, PowerPoint
+Proficiency in coding in query languages such as SQL, or SAS.
+Good applied statistics skills, such as distributions, statistical testing, regression, etc.
+Good scripting and programming skills to implement solutions effectively,
+Data-oriented, eager-to-learn and self-develop personality is a requirement
+Kıdem Düzeyi
+Uzman
+Sektör
+Sigorta
+İstihdam Türü
+Tam Zamanlı
+İş Alanları
+Analiz Uzmanı Bilgi Teknolojisi İş Geliştirme",Allianz Türkiye,"Istanbul, Turkey",Sigorta,Tam Zamanlı,Analiz Uzmanı Bilgi Teknolojisi İş Geliştirme,Uzman,https://www.linkedin.com/jobs/search/?currentJobId=1450316303&keywords=Python&location=istanbul
+Software Developer (Python),"Make a Difference …
+
+Are you working in the Fin-tech industry and looking for a challenge in your career?
+Do you believe that you can change the world with online - technology?
+
+If your answers are yes we offer you a fast-growing environment with a career growth and development opportunity.
+
+Qualifications    
+
+BSc/BA in Computer Science or a related degree,
+Minimum of 3 years experience in Python,
+Preferably working experience with Django,
+In-depth knowledge of relational databases (e.g. SQL, PostgreSQL) and NoSQL databases (e.g. Redis, MongoDB),
+Experience with Git, 
+Experience in Scrum and Agile methodologies,
+Preferably having good knowledge of JS,
+Preferably having experience with Web Technologies,
+Preferably having background in payment processing companies,
+
+Job Description
+
+ Develop high-quality software design and architecture,
+Identify, prioritize and execute tasks in the software development life cycle,
+Develop tools and applications by producing clean, efficient code,
+Automate tasks through appropriate tools and scripting,
+Review and debug code,
+Perform validation and verification testing,
+Collaborate with internal teams and vendors to fix and improve products,
+Document development phases and monitor systems,
+Ensure software is up-to-date with latest technologies.
+Kıdem Düzeyi
+Orta-Üst Düzey Yönetici
+Sektör
+İnternet
+İstihdam Türü
+Tam Zamanlı
+İş Alanları
+Mühendislik Bilgi Teknolojisi",Metglobal,"İstanbul, Türkiye",İnternet,Tam Zamanlı,Mühendislik Bilgi Teknolojisi,Orta-Üst Düzey Yönetici,https://www.linkedin.com/jobs/search/?currentJobId=1459454273&keywords=Python&location=istanbul
+Senior Python Developer,"At IYS, development is the heartbeat of our service offering. Our developers are technology enthusiasts who follow technology trends closely to be one step ahead all the time. Every day they use their technological know-how to create something new. By incorporating new technologies into product and service design, they help us create radically simple and seamless experiences.
+
+The position in a nutshell:
+Verikoru is in search of Python developers who will be responsible for the complete lifecycle of a scalable, secure and well designed internal software products from research and design to implementation. You’ll be working closely with designers, analysts, quality assurance and other teams to translate each requirement into real-life products.
+If you are interested, please see the followings describing the qualifications we expect.
+Key Responsibilities
+Plan, design, implement and document new data pipelines to bring new data analytics to the team
+Collaborate with teammates and stakeholders on new feature requests, improving existing tools and reports
+Attend team meetings and offer solutions to challenging problems
+Mentor other team members on best code practices and participate in code reviews
+Assist other departments with related projects and know how to connect them with useful data
+
+Qualifications & Experience
+Python Development Lifecycle (Design, Implementation, Test, Deploy)
+5+ Years of software development experience building scalable systems
+SQL (Designing schema, indexing, building scalable systems)
+GIT (branching, develop new features, merge)
+Linux (ability to navigate, manage crontab, install packages as needed)
+Bachelors in a computer science or related faculty required
+Experience with VM container software (Docker / Kubernetes) deploying as micro-services
+Strong analytical and problem-solving skills
+Good enough for written and verbal communication
+Ability to keep deadlines while applying good design principals
+Ability to learn quickly on the job and implementing best industry practices
+
+Nice to have
+Experience with Odoo Framework
+Experience with CRM or ERP systems developed using Python
+Experience with distributed systems (load balancing, proxying)
+Knowledge of queue and streaming systems like RabbitMQ and Kafka
+Strong analytical skills
+Leading code reviews
+Fulfilled military obligation (for male candidates)
+Kıdem Düzeyi
+Orta-Üst Düzey Yönetici
+Sektör
+Bilgi Teknolojisi ve Hizmetleri
+İstihdam Türü
+Tam Zamanlı
+İş Alanları
+Mühendislik Bilgi Teknolojisi",İleti Yönetim Sistemi,"Istanbul, Turkey",Bilgi Teknolojisi ve Hizmetleri,Tam Zamanlı,Mühendislik Bilgi Teknolojisi,Orta-Üst Düzey Yönetici,https://www.linkedin.com/jobs/search/?currentJobId=1481270031&keywords=Python&location=istanbul
+Product Analyst,"İlanı veren
+Gonca Cetin 2.
+VP of HR & Facilities at Commencis
+InMail gönder
+At Commencis, we help leading brands grow and scale in digital, powered by our Big Data, Analytics and Cloud products. Leveraging groundbreaking solutions, our teams build to drive real impact by accommodating all aspects of clients’ needs.
+  By communicating effectively with stakeholders throughout integration projects onsite and remotely, Product Analyst ensures application of the correct business logic and translation of raw data into analysis ready datasets through actions such as filtering, grouping, and aggregation. In addition, Product Analyst helps customers get the desired outcome from our products through creating correct data reports, hosting trainings and leading desk-side sessions.
+  If you are willing and interested to travel as needed, feel comfortable learning on the job, have outstanding communication skills and love taking a goal and deliver on it, keep reading…
+  What we are looking for:
+  * BSc/MSc/PhD degree in Computer Science, Software Engineering or Industrial Engineering
+  * Ability to see business problems and how they translate to solutions, not just adhere to a list of features
+  * Ability to act timely and carry out tasks in case of ambiguity
+  * Good knowledge of software development practices
+  * Good SQL skills
+  * Working knowledge with Python and PySpark (preferred)
+  * Team player
+  * Self-starter
+  * Fluency in Russian and English
+  * Willingness to travel
+  Kıdem Düzeyi
+Orta-Üst Düzey Yönetici
+Sektör
+Bilgi Teknolojisi ve Hizmetleri
+İstihdam Türü
+Tam Zamanlı
+İş Alanları
+Mühendislik Bilgi Teknolojisi Diğer",Commencis,"Maslak Mah., İstanbul Province, Turkey",Bilgi Teknolojisi ve Hizmetleri,Tam Zamanlı,Mühendislik Bilgi Teknolojisi Diğer,Orta-Üst Düzey Yönetici,https://www.linkedin.com/jobs/search/?currentJobId=1468997528&keywords=Python&location=istanbul
+Business Development Asistant Specialist,"Our company founded in 1990, operates in 15 countries with 7500+ employees in Turkey and abroad. Since we are growing rapidly, we are looking for new colleagues as “Business Development Assistant Specialist” located in İstanbul (Anatolian Side) accordance with the following criteria for our company:
+ If you say...
+
+I love dealing with numbers and data... 
+I intend to work in the area about Business Development, Data Visualization, Business Intelligence, Decision Support Systems, Dashboards, Strategic Planning, Sales and Operations Planning (S&OP), etc...
+I can both research and develop...
+I always have a bright idea...
+I work wonders with MS Excel, VBA, Google Sheets, and JavaScript...
+I am able to use at least one of tools such as Python, R, Matlab, Knime...
+ To be target, result and solution oriented, diligent, and analytical thinking are my main features...
+My second native language is English…
+I believe that there is no age for learning...
+I can adapt comfortably to change...
+I have strong communication skill at all levelswhether written or oral…
+My positiveenergy is immediately felt among my colleagues…
+ I am an Industrial or a Computer Engineer with 0-2-yearexperience... 
+I have all of these features…
+I have my goals and I want to talk about them...
+I want to progress in my career in major topics such as...
+Demand planning,
+Forecasting methods, 
+Resource planning, and balancing, 
+Financial planning, 
+KPI monitoring, and management, 
+Budget planning, monitoring, and control
+via Data Analysis, Decision Support Systems, Data Visualization
+I want to be a member of the country's most talented Information Management team, in our Ekol that is the number one in thesector…
+We are waiting for your applications...
+Kıdem Düzeyi
+Uzman
+Sektör
+Lojistik ve Tedarik Zinciri Nakliye/Kamyonculuk/Demiryolu Depolama
+İstihdam Türü
+Tam Zamanlı
+İş Alanları
+Analiz Uzmanı İş Geliştirme Araştırma",Ekol Lojistik,"Istanbul, Turkey","Lojistik ve Tedarik Zinciri,Nakliye/Kamyonculuk/Demiryolu,Depolama",Tam Zamanlı,Analiz Uzmanı İş Geliştirme Araştırma,Uzman,https://www.linkedin.com/jobs/search/?currentJobId=1483160333&keywords=Python&location=istanbul
+Veri Bilimi Uzmanı,"İlanı veren
+Itır Tavşancı 2.
+Recruitment Specialist at Gratis
+2009 yılında Sedes Holding bünyesinde kurulan Gratis, Türkiye çapında 600’ün üzerindeki mağazası ile kişisel bakım sektöründe lider konumundadır. “Güzel Bak Kendine” mottosu ile 10 yıldır kişisel bakım sektöründe hizmet veren Gratis, dünyanın önde gelen markaları başta olmak üzere makyaj ürünlerinden cilt bakımına, bebek bakımından temizlik ürünlerine, hijyen ürünlerinden atıştırmalıklara kadar 12 farklı kategoride 8 binden fazla ürün sunmaktadır.
+ Türkiye’nin en büyük 500 şirketi içinden en yüksek kadın çalışan sayısı ile ilk 100’e giren şirketler arasında kadın çalışan ve kadın yönetici oranı ile 1’inci konumda olan Gratis’in mağaza kadrolarının tümü kadın çalışanlardan oluşmaktadır. Tüketiciler tarafından ‘aşık olunan marka’ ve ‘kişisel bakım sektörünün 1 numaralı markası’ seçilerek birçok ödül alan Gratis, yenilikçi ve dinamik duruşu, ileri teknolojik alt yapısı ve uzmanlaşmış mağazacılık anlayışı ile birçok ilke imza atarak sektördeki hizmet çıtasını en üst seviyelere taşımaktadır.
+ Müşteriler, çalışanlar ve tedarikçiler nezdinde en cazip satış kanalı olan Gratis’in amacı müşterilerine kolay ulaşılabilir, hızlı ve rahat alışveriş imkânı sunarken temel kişisel bakım ihtiyaçlarının yanı sıra heyecan veren yeni markalar ve ürünler ile müşterilerine kişiye özel keyifli bir alışveriş deneyimi sunmaktır.
+
+GENEL NİTELİKLER :
+
+Üniversitelerin Bilgisayar Mühendisliği, Endüstri Mühendisliği, İstatistik, Matematik veya MIS bölümlerinden mezun olan,
+Veri bilimi alanında minimum 3 yıl tecrübesi bulunan,
+SAS, IBM Modeller, R, Python gibi veri bilimi programlarından en az birinde ileri seviyede bilgi sahibi olan ve bu programlar ile projeler geliştirmiş,
+Çok iyi derecede SQL bilgisi olan
+Web datası üzerinde tecrübeli, tercihen Google Bigquery, Google Analytics ya da Tensorflow kullanmış,
+Supervise/unsupervise modeller ve text mining konularında bilgi sahibi ve projeler geliştirmiş,
+Ürün öneri sistemlerinde bilgi sahibi ve projeler gerçekleştirmiş.
+İyi derecede İngilizce bilen, 
+Analitik yetkinliği yüksek olan,
+Sonuç odaklı ve detaycı olan.
+
+İŞ TANIMI:
+
+Veri temizleme, zenginleştirme ve tekilleştirme süreçlerini ilerletmek,
+Müşteri segmentasyonu (değer, ihtiyaç, davranış v.b) yapmak,
+Kampanya, promosyon, iletişim optimizasyon sistemlerinin kurulmasında görev almak,
+Tahminsel modeller geliştirmek (churn, kategori/ürün/marka eğilim modelleri, fraud modelleri v.b )
+İlişki ve sepet analizleri yapmak,
+Ad-hoc analizler yapmak,
+Omnichannel müşteri deneyimi ölçümlemesi ve indeks hesaplaması yapmak.
+Kıdem Düzeyi
+Orta-Üst Düzey Yönetici
+Sektör
+Perakende
+İstihdam Türü
+Tam Zamanlı
+İş Alanları
+Mühendislik Bilgi Teknolojisi",Gratis,"Istanbul, Turkey",Perakende,Tam Zamanlı,Mühendislik Bilgi Teknolojisi,Orta-Üst Düzey Yönetici,https://www.linkedin.com/jobs/search/?currentJobId=1496955304&keywords=Python&location=istanbul
+Product Owner,"P.I. Works is the leading provider of AI-driven mobile network planning, management and optimization solutions. These solutions empower Mobile Operators to accelerate network transformation, improve network quality and reduce network management costs on the way to 5G. P.I. Works has deployed its solutions for 47 mobile network operators in 35 countries.  
+
+
+P.I. Works is looking for a Product Owner* to drive product management lifecycle and leverage capabilities of Smart Network Planning solution considering demands coming from global mobile operators, competitive edge requirements with a focus on next-generation network planning approach and AI/ML-based forecasting along with joint optimization techniques.
+
+For further details about Smart Network Planning please proceed to
+
+https://piworks.net/products#smart-network-planning
+
+* Senior, expert, principle level of roles are available
+
+
+What You Will Do?
+
+Design user experience, deliver and demonstrate next-generation network planning solution based on mobile operators’ requirements and worldwide policies
+Attend customer meetings and technology sessions to capture new network planning requirements, domain challenges towards 5G and introduce value-proof solutions
+Design algorithms, provide a flexible infrastructure for expansions and create specification documents to maximize CapEx efficiency and investment planning agility
+Extract business cases, do analyze the value, validate studies and provide a competitive roadmap
+Conduct demo, training, and workshop sessions
+Lead the Proof-of-Concept (POC) process within regular communication with customers
+Prepare solution descriptions, fact sheets, functional specifications, and user manual documents
+Ensure product quality assurance by communicating with the Quality Assurance Team and define user acceptance scenarios
+
+What You Need To Be Succesful?
+
+Hands-on mobile network planning experience (Min 3 years is experience is a must)
+Min 2 years of experience in Tier-1 Operators
+Database, SQL, Python knowledge for data treatment and forecasting experience is a plus
+Efficient, result-oriented communication with multi-disciplinary internal teams and time management
+Able to support technical meetings worldwide with a fluent command of English
+Executive, high-level reporting and C-level presentation skills are a plus
+Good organization, negotiation, presentation, and reporting skills are mandatory
+
+What P.I. Works Offers?
+
+An agile environment with the opportunity to work shape the future of the connected world, with a highly talented and multi-cultural team
+International opportunities across Americas, EU & MEA, APAC regions
+Opportunity to gain expert knowledge from P.I. Works’ RAN, Core, Transmission and IT subject matter experts
+Transmission and IT subject matter experts
+The confidence in offering best-in-class solutions to global telco market as the market pioneer
+Broad insight about next-generation optimization techniques and recent technologies in the global mobile communication market
+Opportunity to experience the preparation on launching 5G and AI technology from the market selected company in the telecommunication sector
+The chance to experience the working environment of an award-winning technology solution provider
+
+By applying to this job, you confirm and agree that (i) you have read the information regarding data privacy (“Information”) located at this link, (ii) your personal data will be processed by PIWORKS TR BİLİŞİM HİZMETLERİ SAN. VE TİC. A.Ş. within the scope of the Information and (iii) you have been informed as required by the relevant personal data protection legislation via the Information.
+Kıdem Düzeyi
+Uzman
+Sektör
+Telekomünikasyon
+İstihdam Türü
+Tam Zamanlı
+İş Alanları
+Mühendislik Ürün Yönetimi Bilgi Teknolojisi","P.I. Works, Inc.","Istanbul, Turkey",Telekomünikasyon,Tam Zamanlı,Mühendislik Ürün Yönetimi Bilgi Teknolojisi,Uzman,https://www.linkedin.com/jobs/search/?currentJobId=1496957416&keywords=Python&location=istanbul
+Python Developer,"İlanı veren
+Ahmet Can 2.
+Chief Operating Officer at Boomset
+InMail gönder
+Location
+
+Moda, Kadikoy, Istanbul
+
+Boomset is a leading event solutions provider powered by NFC, mobile, and cloud-based technology. By combining innovative products with customizable professional services, Boomset optimizes events and delivers actionable data leading to a stellar attendee experience. Boomset event solutions include online registration, onsite services, badge printing, access control and tracking, lead retrieval, reporting, analytics, and more. Boomset operates on six continents and services thousands of exhibitors and over 1.5 million attendees annually.
+Job Description
+
+We are seeking a hands-on, experienced and motivated individual who thrives in a fast-paced, entrepreneurial work environment keeping up with the pace and energy of our dynamic team and agile environment. You will use your development skills and consumer understanding to create great user experiences.
+
+Responsibilities
+ Ensure various front-ends are operating as intended and databases are accessible
+Update weekly task document
+Participate in weekly project update meetings
+Oversee/download and aggregate required text data as required
+Maintain databases as required
+ Requirements
+ BS degree in Computer Science or relevant departments
+5 to 7 years of demonstrable experience in Python
+Solid understanding of Object-Oriented Design and Analysis, multi-processing, modern data transformation techniques, and SQL/No-SQL databases and distributed systems
+Minimum 5 years of application development work with solid application design, coding, testing, maintenance and debugging skills
+Familiarity with Python web stacks
+Understanding of the threading limitations in Python and multi-process architecture
+In-depth knowledge of Django
+Identify and suggest various opportunities to improve efficiency and functionality
+Write reusable and testable code
+Ability to multi-task with little supervision and work in a complex, deadline oriented environment
+Self-motivated passionate technical professional, able to provide realistic time estimates and driven to achieve committed milestones
+Possess a desire to learn, a drive to improve and a natural curiosity about how things work and why things are done in a certain way
+
+Preferred
+ Experience in an Agile environment
+Strong communication, writing and presentation skills
+Knowledge of current state-of-the-art digital business initiatives and technologies
+
+Personal Qualities
+ ●     Highly motivated, takes initiative.
+●     Excellent communications and analytical skills.
+●     Eagerness on self-improvement, open-minded, career-oriented
+●     Ability to work alone without much supervision.
+●     Persistent and resilient; tenacious when encountering obstacles.
+●     High degree of self-confidence.
+●     Thrives in a fast-paced collaborative environment.
+●     Flexible attitude and ability to adapt to changing priorities.
+●     Demonstrates strong organizational, planning and personal time management skills.
+
+Please send a cover letter including net TL salary requirements and resume to jobs@boomset.com with “Python Developer” in the subject line.
+
+This position is based in Moda, Kadikoy, Istanbul, Turkey
+
+For more on Boomset visit www.boomset.com.
+
+
+Boomset is an equal opportunity employer and committed to a diverse workforce.
+Kıdem Düzeyi
+Orta-Üst Düzey Yönetici
+Sektör
+Etkinlik Hizmetleri
+İstihdam Türü
+Tam Zamanlı
+İş Alanları
+Mühendislik Bilgi Teknolojisi",,"Kadıköy Mah., İstanbul Province, Turkey",Etkinlik Hizmetleri,Tam Zamanlı,Mühendislik Bilgi Teknolojisi,Orta-Üst Düzey Yönetici,https://www.linkedin.com/jobs/search/?currentJobId=1442582105&keywords=Python&location=istanbul
+Machine Learning Engineer,"Desired Skill and Experience of Machine Learning and Big Data Engineer:
+
+Bachelor degree from a reputable university in Computer Science/Engineering, Mathematics or a related field of study, a Master degree is a plus.
+Minimum 2 year of experience with general machine learning
+Basic knowledge on different machine learning techniques and data science tools. You should feel comfortable to talk about these and show your knowledge if you do not have any working experience.
+Knowledge on predictive models and/or optimization techniques.
+Experience using machine learning tools such as TensorFlow, Keras, PyTorch
+In depth knowledge of Natural Language Processing or Computer Vision or Reinforcement Learning is a plus
+Experience in autonomous vehicles is a plus
+Experience with building and using models on cloud platforms (like AWS, Google Cloud) is a plus
+Good knowledge of Python, familiarity with Java, C++, or C# is a plus
+Experience with Big Data (Hadoop, Spark, Hive) is a plus
+Very good command of written and spoken English
+A strong desire to learn and explore new technologies and good analysis and problem-solving skills.
+
+
+
+Major Responsibilities:
+
+Participate on different data science and optimization projects on different levels like design, model development, code construction and deployment.
+Be a part of R&D activities for real world problems.
+Research and report state of the art machine learning technologies
+Build PoC(Proof of Concept) models, improve and deploy them when necessary
+Constantly improve your skills and knowledge on machine learning techniques and data science tools.
+Kıdem Düzeyi
+Orta-Üst Düzey Yönetici
+Sektör
+Bilgisayar Yazılımı Bankacılık Bilgi Teknolojisi ve Hizmetleri
+İstihdam Türü
+Tam Zamanlı
+İş Alanları
+Bilgi Teknolojisi Mühendislik",OBSS,"Istanbul, Turkey","Bilgisayar Yazılımı,Bankacılık,Bilgi Teknolojisi ve Hizmetleri",Tam Zamanlı,Bilgi Teknolojisi Mühendislik,Orta-Üst Düzey Yönetici,https://www.linkedin.com/jobs/search/?currentJobId=1463254323&keywords=Python&location=istanbul
+Data Analyst,"About Us
+
+Want to join a company on the cutting edge of technology and travel? Want to be part of a fantastic and fun company that’s revolutionizing the online travel advertising space?
+
+Adphorus a Sojern company, is a travel marketing science company that provides travel brands with the tools and know-how to scale their digital marketing programs and revenues. The Adphorus platform makes executing a marketing science strategy automated, scalable and easy. Adphorus is an official Facebook & Instagram Marketing Partner, serving top global brands, including, trivago, Air France, and BlaBlaCar. As a Sojern company, we are dedicated to developing custom solutions for travel. Sojern is travel’s direct demand engine for thousands of brands in the hotel, air, cruise, transportation, and tourism industries with 13 offices around the world.
+
+The Role
+
+Based in Istanbul, our Data Analysts are at the heart of Adphorus, assisting various teams from Customer Success to Sales Engineers. They work closely with Data Science team and Product teams to make sure that the great products and algorithms they produce are well-understood and used at their maximum potential.
+
+Being a transitory role between Commercial and Technical teams, this role is perfect for those who want to be client facing with a technical mindset.
+
+Responsibilities
+Understanding how Adphorus machine learning algorithms work, and support customer success team by answering algorithm related queries
+Keeping up to date on Adphorus machine learning algorithms and new Facebook features that can be utilized in our Data Science solutions
+Working with the Customer Success team to respond to client feedback and give technical support with respect to the developed algorithms, and ensure that customers get the maximum value out of our Data Science solutions
+Working with the Sales team to educate clients on the working principles, benefits and limitations of our Data Science solutions
+Designing and recommending A/B tests for clients for testing new Facebook features, different bidding strategies, ad campaign structures, creatives and audience segmentations, and making inferences of A/B test results
+Generating tactical/strategic insights and recommendations for clients derived from the analysis of performance reports
+Proactive analysis and monitoring of clients’ campaigns to identify opportunities and problems
+Generating regular weekly, monthly, quarterly and yearly marketing performance reports using SQL, Adphorus reporting tools and external data sources
+
+
+What You Bring To The Table
+Degree from a reputable university preferably in Statistics, Mathematics, Physics, Engineering, or Computer Science
+2+ years experience in data analysis, visualization, development of data products and presenting to non-technical audiences, preferably in an internet or tech environment
+Must have a full professional proficiency in English
+Must have proficiency in Excel
+Must have excellent written and oral communication skills
+Preferably have experience in performance marketing and quantitative analysis of marketing results
+Preferably have a working knowledge of or a strong desire to learn machine learning, Python, R, C++, SQL, NoSQL and Hadoop or a similar distributed storage and parallel processing ecosystem for big data analysis
+
+
+Perks
+Opportunities: Be part of a growing team with training and support to help you grow
+Culture: Strong core business values, focus on teamwork, vibrant, social and fun environment
+Snacks: Variety of snacks in the office
+Competitive Localized Benefits
+Time Off: 30 vacation days
+Well-being: Medical insurance coverage, on site occupational health specialist, meditation opportunities and more!
+Travel: IATA Card discounts
+
+
+At Adphorus a Sojern company, we value diversity and always treat all employees and job applicants based on merit, qualifications, competence, and talent. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.
+Kıdem Düzeyi
+Orta-Üst Düzey Yönetici
+Sektör
+Pazarlama ve Reklamcılık Bilgisayar Yazılımı İnternet
+İstihdam Türü
+Tam Zamanlı
+İş Alanları
+Bilgi Teknolojisi",Sojern,"İstanbul, TR","Pazarlama ve Reklamcılık,Bilgisayar Yazılımı,İnternet",Tam Zamanlı,Bilgi Teknolojisi,Orta-Üst Düzey Yönetici,https://www.linkedin.com/jobs/search/?currentJobId=1464636751&keywords=Python&location=istanbul
+TS Products Business Analyst,"Do you want to join an exciting, dynamic business? T&S Products gives you all that and more.
+
+In T&S Products we maximize and deliver integrated value. We are driven by the following ambitions
+The best talent wants to work for T&S, we build and sustain unmatched reputation for reliability, dependability and market knowledge. We offer and innovate a broad and competitive range of products and services globally. We are first choice for customers, partners and Shell businesses for their energy transition needs
+
+This role of Business Analyst for T&S Products is a chance for someone with analysis experience to work in a more engaging supply management & business development role. You can look forward to a high level of exposure to E-2-E value chain of STAS and an exciting digitalization journey.
+
+The primary objective of the Business Analyst is to support Products Teams' operations & business development by delivering data analysis & quantitative decision making & preparing business reports, presentations, etc.
+Analyze business processes & market conditions to identify potential improvement areas & propose new ways of working.
+Calculate and report relevant KPIs to monitor T&S Products’ performance
+Track international market conditions daily to support channel optimization efforts
+Provide direct support to Products Manager
+Prepare periodic & ad-hoc meeting and engagement packs
+Prepare ad-hoc data analysis & provide quantitative decision-making support
+
+
+
+Principal Accountabilities
+
+
+Daily Oil Market Monitoring - Business Analyst is responsible for collecting latest oil market pricing data from daily reports and utilizing this information to estimate timing and magnitude of refinery price changes and to track local-import price difference
+LEFT Meetings & Decision Review Board Meetings & Ad-hoc engagement packs - Business Analyst is responsible for organizing and preparing for monthly LEFT meeting packs, support the BOM (Business Opportunity Manager) for preparing meeting packs & all ad-hoc engagement packs
+KPI Calculations and Reporting - Business Analyst is responsible for tracking, calculating and reporting the T&S KPIs and metrics such as Platts product and crude prices, Refinery price change estimation, Import Margin Progress, Demand Forecast Accuracy (DFA for Commercial Fuels and Retail), Primary Transport Performance, Biocomponents Purchase Volumes, etc.
+Sales & Operations Performance Monitoring & Support - Business Analyst ensures timely reporting of S&OP volumes and supports meetings with related analysis, also builds & improves necessary business tools
+Business Development Support - Business Analyst supports Business Development projects with data gathering, quantitative and qualitative scenario analysis, Investment Proposals with support from Business Development Manager
+T&S Strategy - Business Analyst plays an important role in Strategy Refresh activities of the T&S team
+Digitalization – Business Analyst will be a critical member of the T&S Digitalization Initiative team who will work towards developing and deploying a digital solution which will empower T&S with smarter and faster optimization of the E2E supply chain
+
+
+
+Requirements
+
+
+We are looking forward to talking to a candidate who has the following qualifications
+
+Analytical skills, Products Business Analyst must be able to understand large amounts of data and information
+Highly numerate and tech savvy in Office & Analytics tools Advanced Excel & Power Point Skills are essential to this role; knowledge and experience of analytics tools such as Power BI, Python, etc. is preferred
+Critical-thinking skills
+Highly driven, resilient; someone with a ‘can do’ attitude
+The ability to self-assess, self-adjust and good time management
+Creative
+Awareness to see the value in everything we do
+Interest in developing a deep understanding of market dynamics
+Natural collaboration skills and good communication skills as you’ll get to work with anyone and everyone in STAS and Shell EU/AF T&S Products teams
+Ideally having an experience in analysis, supply, logistics, business development and finance
+Language skills It is essential to be fluent in Turkish and English
+
+
+Skillpool
+
+Downstream Supply Chain
+
+Work Location(s)
+
+Istanbul - Esentepe
+
+Dimensions
+
+
+T&S Products is a vital business for STAS, Turkey is an important country for the EU/AF T&S team. The post holder be responsible for supporting the day-to-day activities of the Products team and provide direct support to the Products Manager. The incumbent will guide in development of a new technology solution. In addition to these s/he will be communicating between different stakeholders to understand and respond to the different needs and objectives of team members.
+
+
+No. of Positions
+
+1
+
+13-Oct-2019
+Kıdem Düzeyi
+Geçerli Değil
+Sektör
+Petrol ve Enerji
+İstihdam Türü
+Tam Zamanlı
+İş Alanları
+Tedarik Zinciri",Shell,"Esentepe, TR",Petrol ve Enerji,Tam Zamanlı,Tedarik Zinciri,Geçerli Değil,https://www.linkedin.com/jobs/search/?currentJobId=1540756638&keywords=Python&location=istanbul
+Backend Developer,"We are looking for a Backend Developer to build the backend infrastructure that drives our platform.
+
+Responsibilities:
+Lead backend development and engineering
+Write and validate database queries
+Experience designing optimized database schemas
+Design and architect features from the ground up for a rapidly growing business
+Improve and contribute to current development and engineering practices
+
+Qualifications:
+Experience with MySQL database engine and queries
+Ability to write clean, testable code following best practices
+Experience working on teams using Git or other version control systems
+Comfortable working in an agile workplace
+Passionate about data and performance
+Prior engineering experience in a role that was instrumental to the development and design of large-scale mobile applications
+Experience as a Python developer
+Solid understanding of software design principles
+Diverse knowledge of other programming languages is desirable but not required
+Experience on a search and analytics engine is a plus.
+Kıdem Düzeyi
+Başlangıç Seviye
+Sektör
+Bilgisayar Oyunları Bilgisayar Yazılımı
+İstihdam Türü
+Tam Zamanlı
+İş Alanları
+Mühendislik Analiz Uzmanı Diğer",Fugo Bilişim Teknolojileri,"Istanbul, Turkey","Bilgisayar Oyunları,Bilgisayar Yazılımı",Tam Zamanlı,Mühendislik Analiz Uzmanı Diğer,Başlangıç Seviye,https://www.linkedin.com/jobs/search/?currentJobId=1505124702&keywords=Python&location=istanbul
+Data Scientist,"İlanı veren
+Can Dörtkardeşler 2.
+Co-founder, Udentify
+The ideal candidate's favorite words are learning, data, scale, and agility. You will leverage your strong collaboration skills and the ability to extract valuable insights from highly complex data sets to ask the right questions and find the right answers. 
+ Responsibilities
+Analyze raw data: assessing quality, cleansing, structuring for downstream processing
+Design accurate and scalable prediction algorithms
+Collaborate with the engineering team to bring analytical prototypes to production
+Generate actionable insights for business improvements
+
+Qualifications
+Bachelor's degree or equivalent experience in a quantitative field ( Mathematics, Computer Science, Engineering, etc.)
+At least 1 - 2 years' of experience in quantitative analytics or data modeling
+Deep understanding of predictive modeling, machine-learning, clustering and classification techniques, and algorithms
+Fluency in a programming language (Python, C, C++, Java, SQL)
+Familiarity with Big Data frameworks and visualization tools (MongoDB, Hadoop, Spark)
+Kıdem Düzeyi
+Uzman
+Sektör
+Bilgi Teknolojisi ve Hizmetleri
+İstihdam Türü
+Tam Zamanlı
+İş Alanları
+Mühendislik Bilgi Teknolojisi",Udentify,"Istanbul, Turkey",Bilgi Teknolojisi ve Hizmetleri,Tam Zamanlı,Mühendislik Bilgi Teknolojisi,Uzman,https://www.linkedin.com/jobs/search/?currentJobId=1480437616&keywords=Python&location=istanbul
+DevOps Engineer,"İlanı veren
+Numan Kaçar 2.
+Let's make time for life together. Join us!
+Are you ready to join the Softtech family of more than 1000 people and make the future real with us?
+
+We are looking for DevOps Engineers to join our team who will be able to work with an enthusiasm for implementing pioneering steps on the subject of financial solutions.
+
+We believe that highly competitive solutions can only be developed by the motivated and enthusiastic team. That is why our team members have been selected among the top engineers and specialists in the market. We are experts in developing solutions for financial organizations. If you want to be part of this restless team, come & join our talented team and share our goal that is to take the technology to the next level with creative, fast, efficient, and secure solutions.
+
+Here is the details of our job posting:
+
+What skills do you have?
+ Bachelor’s degree in Computer Science/Engineering or relevant areas
+At least 2 years of experience as DevOps engineer
+Experience in CI and CD pipelines and containerized systems such as Docker Swarm and/or Kubernetes
+Knowledge of Unix/Linux and Windows environments
+Experience in distributed systems and microservices architecture
+Experience in Azure, Google Cloud, Container Technologies, Test Automation and Monitoring tools
+Experience in script languages such as Python, Powershell
+Knowledge of SonarQube, Checkmarx, JIRA, Jenkins tools etc. and Git and Git branching models
+Knowledge of server, network and SDLC and Agile principles
+Passionate for learning new technologies and tools, open for improvement
+Ability to work with ambitious timelines in a dynamic, high-growth environment
+Excellent English communication skills
+Work location is Maslak and/or Tuzla
+  What you will do?
+
+Managing the DevOps line and tool set and complete integrations
+Making automations with code/script developments
+Acting as a technical consultant for related team regarding DevOps
+Working in multiple Agile teams and delivering outputs per each team
+
+What we offer?
+
+Flexible working hours
+Private health insurance
+Generous vacation policy
+Continuously learning and development opportunities
+Attending to technical congress and conferences
+International work experience, career development and visit opportunity to Maxitech, San Francisco and Shanghai
+Build up your project with innovation funnel
+Kıdem Düzeyi
+Uzman
+Sektör
+Bilgi Teknolojisi ve Hizmetleri Finansal Hizmetler Bankacılık
+İstihdam Türü
+Tam Zamanlı
+İş Alanları
+Mühendislik Bilgi Teknolojisi",Softtech,"Istanbul, Turkey","Bilgi Teknolojisi ve Hizmetleri,Finansal Hizmetler,Bankacılık",Tam Zamanlı,Mühendislik Bilgi Teknolojisi,Uzman,https://www.linkedin.com/jobs/search/?currentJobId=1477802380&keywords=Python&location=istanbul
+Full Stack Developer (Python),"The Sony spirit is about freedom, no limits, empowerment, innovation, imagination, autonomy, creativity and choice. With business operations all over the globe, we provide high quality lifestyle products offering entertainment through technology.
+
+We are looking for a passionate, hardworking Senior Web Developer: Full-stack (Python, Django, JavaScript) to join one of teams in Istanbul. You will be joining an existing team, building new automation and data-analyzing solutions for a few exciting sectors. This is a new position, which requires a range of Front-end and Server Side programming skills to produce well-engineered, responsive, easy-to-use applications.
+ 
+The successful Web Developer: Full-stack (Python, Django, JavaScript) will be a major contributor to the Design, Development and Deployment of new products based around the company's core platform and it’s Web Services API.
+ 
+As part of the Operations team, you will also be working closely with development and security teams to create security-driven applications. This is a unique opportunity for the right candidate to help our client deliver next generation search and text analytics solutions such as ELK stack or Splunk.
+  We are looking for a Senior full-stack python developer for our Global Application Security Services team located in Turkey, Istanbul reporting to Sony Electronics, Global Information Security.
+ 
+Responsibilities:
+Full-stack (Python, JavaScript) programming.
+Working with multiple teams and cross-platform to create new automation solutions for our environment.
+Design and coding of responsive, web-based interactive applications and interfaces in a rapid, iterative, security-centric development environment.
+
+QUALIFICATIONS
+The ideal candidate should be able to demonstrate:
+University degree in Computer Engineering, Mathematics or a related discipline.
+Strong front-end development skills using: JavaScript, jQuery, CSS3, HTML5 and Responsive Web Design (RWD), React.js 
+In depth experience of server-side development using Python and SQL database technologies including PostgreSQL; experience with Java and/or NoSQL technologies would also be valuable,
+Familiarity with RESTful web service APIs,
+Practical understanding of web design and application frameworks, including Django
+Practical understanding of cloud systems such as Azure, AWS or GCP and container technologies like Docker, Kubernetes
+A thorough understanding of cross-browser compatibility and developing for mobile devices,
+Full cycle software engineering skills, e.g. OO design, design patterns, unit testing, automated builds,
+A start-up mentality to get things up and running quickly and a love of rapid, iterative security-centric development,
+Desire to keep abreast of the latest standards,
+Self-motivated, with the ability to bridge multiple technical areas and work in cross-functional teams,
+Strong written and verbal communication skills in English,
+
+All applications will be acknowledged and treated confidentially.
+Kıdem Düzeyi
+Orta-Üst Düzey Yönetici
+Sektör
+Tüketici Elektroniği
+İstihdam Türü
+Tam Zamanlı
+İş Alanları
+Danışmanlık Genel İş Bilgi Teknolojisi",Sony,"Istanbul, Turkey",Tüketici Elektroniği,Tam Zamanlı,Danışmanlık Genel İş Bilgi Teknolojisi,Orta-Üst Düzey Yönetici,https://www.linkedin.com/jobs/search/?currentJobId=1457673226&keywords=Python&location=istanbul
+Data Scientist,"Job description
+
+We are a fast growing, big data company looking for talented Data Scientists. This is an opportunity where one can advance their Big Data skills by working with the most leading edge technology and people in the industry. 
+
+Work as a Data Scientist on full-life cycle projects
+Complete all assigned tasks/projects adhering to timelines and meeting all deadlines
+Prepare technical documentations and operational guidelines 
+
+Desired Skills and Experience
+
+Minimum qualifications  
+Bachelor's Degree in Computer Engineering/Science, Electrical & Electronics Engineering or equivalent practical experience.
+1+ years of professional work experience as a Data Scientist is required
+Willingness to learn more about new languages and frameworks
+Creative and innovative problem-solving skills
+Good team player, result oriented attitude and analytical mind
+Advanced level of English
+No military obligation for male candidates for at least 2 years
+Residence in Istanbul
+ 
+
+Preferred qualifications
+
+Experience in Spark, R, Python, Hadoop, etc.
+Experience with machine learning, text mining, NLP, neural networks, etc.
+Perform data mining, modeling and hypothesis generation in support of high-level business goals.
+Develop customized algorithms to solve analytical problems with incomplete data sets.
+Experience in Unix/Linux platforms.
+Experience with agile development methodologies such as Scrum.
+Solid foundation in computer science, with competencies in data structures, algorithms and software design.
+Kıdem Düzeyi
+Orta-Üst Düzey Yönetici
+Sektör
+Bilgi Teknolojisi ve Hizmetleri Telekomünikasyon
+İstihdam Türü
+Tam Zamanlı
+İş Alanları
+Araştırma Analiz Uzmanı Bilgi Teknolojisi",OREDATA,"Istanbul, Turkey","Bilgi Teknolojisi ve Hizmetleri,Telekomünikasyon",Tam Zamanlı,Araştırma Analiz Uzmanı Bilgi Teknolojisi,Orta-Üst Düzey Yönetici,https://www.linkedin.com/jobs/search/?currentJobId=1492435672&keywords=Python&location=istanbul
+Data Analysis and Reporting Specialist,"İlanı veren
+ASLI DÖVEN 2.
+İnsan Kaynakları Uzman Yardımcısı
+You will be working in the Consumer Business Unit and your primary area of responsibility will be to design, run, consolidate and interpret operational and financial reports about customer touchpoint performance, customer journeys and marketing and sales activities. You will also be doing ad hoc data analysis and occasionally design tests and surveys. You will not need to extract or clean data but it would be great if you are knowledgeable about these as well.
+We expect you to have these qualifications:
+University degree from top universities in Turkey or abroad.
+Strong knowledge of Excel.
+Previous experience with report generation tools (such as Tableau , Qlikview etc.).
+Strong problem-solving skills and ability to prioritize and manage multiple tasks,
+Good command of English (enough to read the literature relevant to your field and take courses online for upgrading your skill set)
+A good understanding of statistics.
+Familiarity with at least one programming/scripting language to automate tasks (you don’t need to be an expert but you do need to be able to set up a working environment, write code that actually does something mildly useful)
+In your job, you will:
+Understand the business needs of process owners and co-design the relevant reports.
+Run these regular operational and financial reports, assure that they are accurate and timely, and assist process owners in interpreting them.
+Consolidate various reports and other data sources for monthly budget and KPI reviews.
+Design tests and surveys, evaluate their results.
+Any of these extras would make you a better candidate:
+Experience in advanced statistical concepts including multivariate analysis, linear and non-linear regression.
+Familiarity with data mining concepts, Bayesian methods, stochastic analysis, mathematical modelling, simulations.
+Familiarity with statistical tools and languages such as R, SPSS, relevant Python libraries.
+Kıdem Düzeyi
+Uzman
+Sektör
+Telekomünikasyon
+İstihdam Türü
+Tam Zamanlı
+İş Alanları
+Analiz Uzmanı Mühendislik",TurkNet İletişim Hizmetleri,"Istanbul, Turkey",Telekomünikasyon,Tam Zamanlı,Analiz Uzmanı Mühendislik,Uzman,https://www.linkedin.com/jobs/search/?currentJobId=1401818192&keywords=Python&location=istanbul
+Data Scientist,"İlanı veren
+Ubit Tech
+--
+About the Role 
+As a key member of the team, you will work with the Business Intelligence team to analyze and interpret data, develop metrics to measure results and integrate new methodologies into existing systems on a wide variety of topics that will support Bahçeşehir K12 Schools’ approach for delivering a world class education.
+What You’ll Do
+ Work with large, complex data sets. Solve difficult, non-routine analysis problems, applying advanced analytical methods as needed; conduct end-to-end analysis that includes data gathering and requirements specification, processing, analysis, ongoing deliverables.
+·      Data discovery and mining
+·      Hypothesis testing, causal inference, and time-series analyses
+·      Design of experiments and statistical power analysis
+·      Supervised and unsupervised learning on continuous and discrete data
+·      Bayesian analysis
+·      Robust estimators
+·      Predictive modelling
+·      Information theory
+ What You’ll Need
+·      B.S. with minimum 5 years of relevant experience in statistics / data science / econometrics or data engineering. M.S. or Ph.D. degree in Computer Science, Statistics, Engineering, Operations Research, Economics, or other quantitative discipline with minimum 2 years of experience strongly preferred.
+·      Strong foundation in data collection, statistical inference, and the application of advanced causal modeling methods 
+·      Ability to develop statistical analysis and machine learning software in a language like Python (preferred) or R
+·      Strong data engineering skills
+·      Proficiency with SQL and Hadoop
+ Bonus Points
+ ·     A well-rounded researcher. Can collaboratively move a project from a nascent idea through to actionable data-driven recommendations. 
+ ·     Design, conduct and analyze experiments to determine the most impactful in-product design strategies. 
+ ·     Able to take complex scientific principles and translate these into everyday terms and understanding. 
+  Kıdem Düzeyi
+Orta-Üst Düzey Yönetici
+Sektör
+Bilgisayar Yazılımı Bilgi Teknolojisi ve Hizmetleri
+İstihdam Türü
+Tam Zamanlı
+İş Alanları
+Mühendislik Bilgi Teknolojisi Araştırma",UBIT Bilgi Teknolojileri,"Istanbul, Turkey","Bilgisayar Yazılımı,Bilgi Teknolojisi ve Hizmetleri",Tam Zamanlı,Mühendislik Bilgi Teknolojisi Araştırma,Orta-Üst Düzey Yönetici,https://www.linkedin.com/jobs/search/?currentJobId=1489296090&keywords=Python&location=istanbul
+DevOps Cloud Lead Engineer,"İlanı veren
+Filiz Han 2.
+Azerion şirketinde HR Manager
+Triodor is Holland based an international Software R&D company that conducts projects for its customers from all over Europe, such as Holland, Germany and Switzerland. 
+
+About Azerion:
+Azerion is a diverse company group of various media and technology brands such as Orange Games, Plinga, Sellbranch, Sulake, Widespace, Improve Digital and many others. Together we engage nearly a billion people around the world. We aim to build an ecosystem that is more relevant and sustainable for publishers, consumers, advertisers and content owners than the current dominant players. We believe that quality data & content are crucial for digital success! And we are growing rapidly as we believe in the power of scale from a collective.
+
+We are looking for DevOps Cloud Lead Engineer who can adapt to our young, energetic team & dynamic working atmosphere and also have no restriction to travel abroad. This role will be based in İstanbul.
+
+You understand being a DevOps Cloud Lead Engineer at Azerion, is all about finding strong, technical solutions in an ever changing and fast paced environment, where you need to meet and exceed the challenges. Therefore, we are looking for strong DevOps Cloud Lead Engineer to join our hosting department within Triodor, Istanbul and take charge of an amazing group of Engineers. Serving a wide range of clients, platforms and products of the Azerion Group of companies. Given the wide array of clients, you will with, you are also experienced with more traditional hosting methods, like on-premise hosted services and VMWare virtualization.
+ Lead Engineer that feel at home within a young, vibrant environment that is challenging, dynamic and rewarding at the same time; as well as providing diversity in technologies and Cloud solutions on providers such as Amazon Web Services, Google Cloud Platform and Microsoft Azure.  
+ Main responsibilities of this role :
+The DevOps Cloud Lead Engineer’s primary responsibility is to manage the team schedules and duties for the team that maintains and improves our infrastructure within AWS, Microsoft & Google Cloud, using both managed and self-hosted services. All our products are online and heavily rely on our server infrastructure. Therefore, we require candidates that can demonstrate strong ability in maintaining this infrastructure, understanding the complex needs of our clients and building relationships within the managed team but also developing new solutions using the tools and technology available to achieve the highest results.
+Understand what it means to motivate the troops and keep the wheels turning, by distributing projects and tasks to the team, providing technical assistance and working with Product Owner.
+Ability to multi-task, working on long- and short-term tasks and projects and working within timeframes set.
+Be the point contact, for all things technical and business related and make decisions when required to do so.
+You make sure all our instances at Amazon (AWS) & Google Cloud (GCP) run without a whisper!
+Reduce operational burden, using auto-scaling and reduce manual intervention.
+Write IaC for provisioning and deployment.
+Implement and spread the best integration and deployment practices, have a continuous improvement mentality.
+You are proactive, it is not only taking work that is assigned to you but also build your own tasks that improve the platform.
+Ability to work within an Agile environment, within a team of like-minded individuals.
+
+Role Requirements & Skills :
+Experience in problem solving, demonstrable by using various technologies at your disposal.
+Strong analytical skills, ability to analyze and produce solutions based on analysis.
+Ability to write clear and concise technical documentation with enough granularity.
+Strong verbal and written communication skills, fluent in English a must.
+Demonstrable ability to white board solutions or discuss solutions fluently.
+Committed to producing results that are of high quality, keep to project schedules and observe milestones.
+Strong team player, working alongside colleagues as a team and individual; share knowledge and absorb the strong team characteristics.
+Work on service-oriented architecture, use design patterns and domain driven designs to produce highly efficient and cost-effective infrastructure.
+Understanding of technologies:
+- Messaging queues and brokers (RabbitMQ, Apache Kafka).
+- NoSQL technologies (ElasticSearch, Redis and Cassandra).
+- GIT and GIT workflows, CI and CD tools and technologies.
+- Microservices infrastructure and development knowledge.
+- JavaScript, Java, Python and other coding skills.
+- Test and QA frameworks, a must.
+Knowledge in extreme programming techniques a bonus.
+Extensive knowledge use cases and experience with Linux.
+Experience in high-traffic environments, where services need to remain online and function without intervention.
+Deep understanding of containerization, of CI/CD and tools that form part of the environments and configurations i.e. Ansible, part of your repertoire.
+AWS/GCP Certification, a nice to have.
+You have a healthy pragmatic attitude, “being smart, getting things done”.
+You are able to make weighted decision between maintaining legacy code and refactoring.
+
+You must also have at least:
+BS or MS degree in Computer science, software, electronics or related field.
+Minimum 5+ years’ experience in a DevOps or development environment:
+- Working with high volume traffic systems or large-scale Big Data or Infrastructure environments a bonus.
+- Full-time experience as a DevOps Engineer or similar in an online environment
+Must have leadership experience, minimum 3+ years within a DevOps or management environment.
+Affinity with (Backend) development and code analysis.
+
+The Environment:
+You control the work, the workflow and the processes, you drive the team forward.
+You are part of a self-managed operations team.
+Your experience, skills and expertise are important in the management of the team.
+For our deployments, you will be using Ansible, Terraform, Team City and Bamboo, Gitlab, GitHub, CloudFormation, Google Deployment Manager through to legacy systems which require migration.
+Multiple OS and technology combined with multiple cloud solutions make this an exciting and fast paced environment.
+
+Location:
+Triodor Software is located in Maltepe, Istanbul.
+Kıdem Düzeyi
+Orta-Üst Düzey Yönetici
+Sektör
+Bilgisayar Yazılımı
+İstihdam Türü
+Tam Zamanlı
+İş Alanları
+İş Geliştirme",Triodor Software,"Aydınevler Mah., İstanbul Province, Turkey",Bilgisayar Yazılımı,Tam Zamanlı,İş Geliştirme,Orta-Üst Düzey Yönetici,https://www.linkedin.com/jobs/search/?currentJobId=1477862769&keywords=Python&location=istanbul
+Product Analyst,"Join us as we pave the way for a thriving digital society. We are Commencis, we help leading brands grow and scale in digital, powered by our Big Data, Analytics and Cloud products.
+
+Commencis is founded by the same group of people that created Pozitron (later acquired by Monitise) with a new vision to become a market-defining global brand in Digital Transformation and Big Data. We designed a workplace that values collaboration and curiosity with an open mindset. If you share the same passion with our fellow Commencers, then let us unleash your world-class potential!
+
+At Commencis, we’re passionate about creating purposeful products/solutions. And now we are looking for passionate Data Engineers to join our team to participate in projects all over the world to transform institutions’ use of data and technology.
+
+Leveraging ground breaking technical solutions, our teams build to drive real impact by accommodating all aspects of clients’ problems.
+
+By communicating effectively with stakeholders throughout integration projects onsite and remotely, Deployment Strategist ensures application of the correct business logic and translation of raw data into analysis ready datasets through actions such as filtering, grouping, and aggregation.
+
+If you are willing and interested to travel as needed, feel comfortable learning on the job, have outstanding communication skills and love taking a goal and deliver on it, keep reading…
+
+Requirements
+BSc/MSc/PhD degree in Computer Science, Software Engineering or Industrial Engineering
+Ability to see business problems and how they translate to solutions, not just adhere to a list of features
+Ability to act timely and carry out tasks in case of ambiguity
+Good knowledge of software development practices
+Good SQL skills
+Working knowledge with Python and PySpark (preferred)
+Team player
+Self-starter
+Fluency in Russian and English
+Willingness to travel
+Commencis helps leading brands grow and scale in digital, powered by its big data, analytics and cloud products. Putting digital at the core, Commencis transforms businesses to thrive and stay relevant in a demanding digital world.
+
+Driven by purpose, Commencis focuses on creating measurable positive impact and competitive advantage through technology, design and data science. Commencis enables clients to design and build digital experiences, create stronger and more meaningful relationships with their customers, and bring agility and scalability with cloud solutions.
+Kıdem Düzeyi
+Uzman
+Sektör
+Bilgi Teknolojisi ve Hizmetleri Bilgisayar Yazılımı İnternet
+İstihdam Türü
+Tam Zamanlı
+İş Alanları
+İş Geliştirme Satış",CABINET DENTAIRE RESPEN ET Co,"İstanbul, TR","Bilgi Teknolojisi ve Hizmetleri,Bilgisayar Yazılımı,İnternet",Tam Zamanlı,İş Geliştirme Satış,Uzman,https://www.linkedin.com/jobs/search/?currentJobId=1485293374&keywords=Python&location=istanbul
+DevOps Engineer,"We’re a technology company. Technology enables us to do a business no one else in the world is doing. It is our biggest advantage.
+
+Getir is growing incredibly fast in Turkey, but we want to grow globally. London to Tokyo. Sao Paulo to New York. Our global ambitions can only be accomplished with exceptional technology.
+
+Great technology is developed by great humans and we are always hiring great developers so that we can continue developing new technologies.
+
+Here’s what you fundamentally need to be a kickass DevOps Engineer at Getir:
+
+Qualifications:
+Solid knowledge in AWS, Docker & ECS/Lambda is a must
+Knowledge about serverless and micro-service architecture
+Previous experience in automated systems with Python and Bash
+Experience in Shell environments
+Knowledge in Ansible, Chef, Puppet, Kubernetes & Mesos is a plus
+3+ years of experience as a DevOps Engineer
+
+Responsibilities:
+Automate provisioning and deployments
+Simplify complex workflows
+Manage and maintain continuous integration and continuous delivery environments
+Build and tune stacks for performance
+Respond to outages
+
+Desired Characteristics:
+Passionate about new technologies
+Eager to learn and stretch your boundaries
+Works well in a team and takes initiative
+Open to new approaches and new ideas
+Must be a DOer, a curious learner
+Kıdem Düzeyi
+Orta-Üst Düzey Yönetici
+Sektör
+İnternet Bilgisayar Yazılımı Bilgi Teknolojisi ve Hizmetleri
+İstihdam Türü
+Tam Zamanlı
+İş Alanları
+Bilgi Teknolojisi",Getir,,"İnternet,Bilgisayar Yazılımı,Bilgi Teknolojisi ve Hizmetleri",Tam Zamanlı,Bilgi Teknolojisi,Orta-Üst Düzey Yönetici,https://www.linkedin.com/jobs/search/?keywords=Python&location=istanbul&start=25
+Workforce Management Planning Analyst | Based in Bangkok,"Agoda.com is a leading Asia-based, online travel accommodation company that specializes in securing the best accommodations at the lowest prices for travelers. Agoda.com is part of Priceline group. Agoda.com’s network includes more than 1,000,000 accommodations worldwide. The multinational staff of nearly 3,500 professionals, located throughout the world, provides a first-rate reservation service in 40 languages that uniquely combines local knowledge and local connections to provide the best deals to both business and leisure travelers.
+
+The Workforce Management Planning Analyst is responsible for the day to day activities of the Workforce Management team.
+
+This includes a variety of planning and scheduling activities, making appropriate staffing decisions. Performing deep dive analysis and recommending actions to meet SLAs and KPIs in order to improve operations and customer experience for customers of Agoda, supported through the vibrant, multilingual Customer Experience Group (CEG) over 7 geographical locations.
+
+Join the diverse and fun working environment in Agoda Bangkok!
+
+Responsibilities
+Analyze contact volume patterns by campaigns, contact group, queues and agents’ skillsets.
+Work with the Forecasting & Scheduling analyst in developing forecasting models to predict voice contact volume and key call statistics, email volume, and the addition of future media types such as chat.
+Utilize workforce management software to forecast contact volume and schedule staff. Experience with Workforce Management software, preferably in Verint Impact 360.
+Communicate necessary real time and proactive adjustments to workforce plan based on changing/dynamic forecasts and re-forecast when necessary.
+Ensure schedules are generated on a timely manner to maximize effective allocation of resources
+Collaborate with other departments, team managers, service delivery managers to identify opportunities for improvement of resource utilization
+Analyzing workload, vacation and absence records, training, meeting and coaching schedules (shrinkage) for on-going historical trend analysis and planning and forecasting purposes.
+Leading special workforce management-related projects.
+
+
+Primary Qualifications
+Self-motivated person with “Get it done!” attitude, who is eager to learn and improve him/herself
+Bachelor’s degree or equivalent business experience required.
+Experience with Verint Impact 360 Workforce Optimization software or similar tool required
+2 years’ experience in Forecasting & Staffing process or in call/contact center operations
+Excellent planning and time management skills, strong Excel skills are required.
+Good analytical diagnostic, troubleshooting and data visualization (PowerPoint) skills.
+Excellent written and verbal English communication skills
+Experience working with multi-cultural team environment.
+High level of accuracy and attention to detail
+Ability to adapt in a fast pace environment
+Capable to meet deadlines, to work under pressure and with changing priorities
+Ability to teamwork as well as work independently
+
+Good to have
+Experience with Genesys systems
+Understanding of Customer satisfaction concepts and metrics including Net Promoter Score (NPS), Customer Satisfaction (CSAT), contact center service levels
+Experience in any of the following programming languages: SQL, R, Python
+
+
+What We Offer
+Be part of an exciting data-driven team
+Opportunity to propose ideas to improve CEG Operations based on data and have an impact on the Customer Experience
+Possibility for continuous learning and development through corporate learning programs
+Young and dynamic multinational team
+Agoda discount for traveling
+
+
+We welcome both local and international applications for this role. Full visa sponsorship and relocation assistance available.
+
+#sanfrancisco #sanjose #losangeles #sandiego #oakland #denver #miami #orlando #atlanta #chicago #boston #detroit #newyork #portland #philadelphia #dallas #houston #austin #seattle #washdc #sydney #melbourne #perth #vienna #minsk #brussels #saopaolo #toronto #vancouver #montreal #shanghai #beijing #shenzhen #prague #copenhagen #cairo #alexandria #giza #estonia #helsinki #paris #nice #berlin #munich #hamburg #stuttgart #hongkong #budapest #bangalore #newdelhi #jakarta #bali #bandung #dublin #telaviv #milan #rome #naples #turin #palermo #venice #bologna #florence #tokyo #osaka #yokohama #amman #irbid #kualalumpur #amsterdam #oslo #manila #warsaw #krakow #sintra #doha #alrayyan #bucharest #moscow #riyadh #jeddah #mecca #medina #singapore #capetown #johannesburg #seoul #barcelona #madrid #stockholm #basel #taipei#tainan #Taichung #kaohsiung #bangkok #dubai #abudhabi #london #manchester #liverpool #hcmc #hanoi #sanaa #taiz #aden #gibraltar #saintpetersburg #kiev #Bblgrade #chisinau #athens #sofia #bratislava #riga #vilnius #yerevan #baku #zagreb #tirana #istanbul #ankara #izmir #lisbon #edinburgh #ANLS #4
+
+Kıdem Düzeyi
+Orta-Üst Düzey Yönetici
+Sektör
+İnternet
+İstihdam Türü
+Tam Zamanlı
+İş Alanları
+Analiz Uzmanı",Agoda,"İstanbul, TR",İnternet,Tam Zamanlı,Analiz Uzmanı,Orta-Üst Düzey Yönetici,https://www.linkedin.com/jobs/search/?currentJobId=1462352283&keywords=Python&location=istanbul&start=25
+Application Monitoring Engineer,"İlanı veren
+Deniz Agdas 2.
+HR Business Partner at Asseco South Eastern Europe
+InMail gönder
+What we do?
+  We are building the future of payment technologies. We are developing a powerful payment platform that enables ecommerce for online merchants.
+  About Us: https://www.payten.com/tr/
+  The candidate will join the Monitoring team and will implement and manage the related services and monitoring/performance tools (servers, storage, operating system, databases, applications, network, etc.).
+    About Your Role:
+  Performs various monitoring engineering tasks across the Payten enterprise environment. This will include current telephone systems, application stacks, operating systems and infrastructure in a highly virtualized environment
+Design, integrate and implement DynaTrace monitoring systems for the core IT infrastructure, applications and IT services
+Develops, configures, and documents all aspects of systems and services to ensure systems availability and data integrity
+Run projects in relation to monitoring and alerting which may or may not involve coordination of other personnel resources
+Work with development and operations teams to ensure alert thresholds are fit for purpose and do not generate false positives or spam alerts / events.
+ 
+
+
+
+About You:
+  Minimum 5 years of Enterprise System Monitoring experience (Service and Application Performance Management).
+Ability to work on complex issues where analysis of situations or data requires an in-depth evaluation of variable factors.
+Experience in DynaTrace monitoring environment (desirable)
+Good knowledge of Linux Server – Major DB distributions
+Good knowledge of major APM and monitoring tools Solutions (Zabbix, Dynatrace, etc)
+Good knowledge of major Scripting tools (Python, Powershell, Javascript etc)
+Experience with configuration and management software (Ansible etc)
+Experience with Containerized application and orchestration (Kubernetes, Docker etc)
+Experience with CI/CD flows and tools (Git, Jenkins etc)
+In-depth experience installing, configuring, maintaining log analysis tools such as Splunk, LogStash and Kibana.
+ITIL Framework understanding and working knowledge of concepts
+Excellent communication (both written and verbal), customer service, and conflict resolution skills
+
+
+  When you join us, we want to make sure you feel valued – and that you are rewarded for your great work!  
+
+
+  Kıdem Düzeyi
+Uzman
+Sektör
+Finansal Hizmetler
+İstihdam Türü
+Tam Zamanlı
+İş Alanları
+Bilgi Teknolojisi Mühendislik",Payten,"Maslak Mah., İstanbul Province, Turkey",Finansal Hizmetler,Tam Zamanlı,Bilgi Teknolojisi Mühendislik,Uzman,https://www.linkedin.com/jobs/search/?currentJobId=1485296874&keywords=Python&location=istanbul&start=25
+Senior Big Data Admin,"QUALIFICATIONS
+
+·      Minimum 7-8 years System/Database Administration experience with at least 3+ Years of Big Data Systems Administration experience required,
+
+·      Bachelor’s degree in Computer Science, Engineering or related field,
+
+·      Strong knowledge of Hadoop Architecture (HDFS), Hadoop Cluster installation, configuration, monitoring, cluster security, cluster resources management, maintenance and performance tuning,
+
+·      Strong knowledge of Hadoop components such as HDFS, Sentry, Kafka, Impala, Hue, Hive, ZooKeeper, HBase,
+
+·      Strong knowledge of key scripting and programming languages such as MapReduce, Spark, Python, Bash, Scala,
+
+·      Good knowledge of relational databases, industry practices, techniques and standards, (hands-on experience at least one of MySQL, MSSQL, PostgreSQL, Oracle)
+
+·      Good knowledge of NoSQL databases, industry practices, techniques and standards, (hands-on experience at least one of MongoDB, Cassandra, Elastic Search, Neo4j, Redis)
+
+·      Good knowledge of Linux Administration,
+
+·      Work individually, with minimal supervision, as well as in team environments,
+
+·      Detail oriented, well organized work skills,
+
+·      Multitasking, time and stress management,
+
+·      Strong ability to identify, prioritize and solve problems,
+
+·      Passionate about learning big data, new technologies , open source technologies,
+
+·      Fluent in English is an asset.
+ JOB DESCRIPTION
+
+·      Design, installation, configuration and administration of Hadoop platform and maintaining the Hadoop infrastructure and operations,
+
+·      Forecasting, planning, capacity arrangement and scaling of Hadoop clusters,
+
+·      Design and implement for 7/24 uptime requirements of Hadoop cluster connectivity, monitoring and security, conducting performance tuning of Hadoop clusters,
+
+·      Setting and implementing Backup and Disaster Recovery strategy,
+
+·      Automation and integration of monitoring and server job processes,
+
+·      Assist the team in designing and developing a scalable real-time infrastructure and data pipelines,
+
+·      Design and implement distributed data processing pipelines using Hadoop/Spark and Hive,
+
+·      Focus on performance, throughput, and latency to build and maintain our architecture,
+
+·      Analyze and optimize performance of systems, eliminate bottlenecks, plan for capacity upgrades.
+Kıdem Düzeyi
+Uzman
+Sektör
+İnternet
+İstihdam Türü
+Tam Zamanlı
+İş Alanları
+Bilgi Teknolojisi",sahibinden.com,"Istanbul, Turkey",İnternet,Tam Zamanlı,Bilgi Teknolojisi,Uzman,https://www.linkedin.com/jobs/search/?currentJobId=1489572611&keywords=Python&location=istanbul&start=25
+Full Stack Developer,"İlanı veren
+Erhan Eren 2.
+Co-Founder and CEO at Enki.AI
+Overview
+
+Enki is seeking an outstanding full-stack Developer who is passionate about developing and applying front end and back end skills to solve real-world problems. You will have a chance to work on and contribute to a state-of-the-art AI business assistant for executives to fight information overload and help them make the most optimum decisions.
+Enki provides personalized, actionable, and instant market analysis without an analyst with spreadsheet. Our vision is to automate what analysts traditionally do using AI and NLP. Several VC firms and sales execs have already signed on for pilots. Now, we are looking for a full-stack developer to join our team and take the application to the next level.
+You will have full ownership over the projects you work on and have a huge impact on the architecture and execution of the company. You will be working very closely with Chief Hustler and Chief Hacker. We may even assign you interns to build you as a future technology leader.
+
+Qualifications
+Experience with a general-purpose programming languages: Java, C/C++, C#, Python, or JavaScript
+Degree in Computer Science, or similar field, or equivalent practical experience
+Experience working with two of: web application development, distributed and parallel systems, machine learning, information retrieval, natural language processing, or developing large software systems.
+Interest and ability to learn other coding languages as needed.
+Ability to speak and write English fluently.
+
+Skills
+NodeJs / Express
+JavaScript / ReactJs
+HTML / CSS
+MongoDB, MySQL, or similar database
+Redis, Memcached, or similar
+1+ years’ experience developing and consuming RESTful web services.
+Experience with public cloud services like AWS, Google Cloud, or IBM Cloud is a plus.
+Familiarity with web crawling, natural language processing, and machine learning is a plus.
+
+About us:
+ Enki is a hot startup based in San Francisco, the core of Silicon Valley. 
+   Enki 
+helps B2B enterprise sales reps who work at smaller companies selling to large enterprise accounts valued at more than $100,000+/transaction
+who wants to shorten the B2B sales cycle in half and increase revenue growth
+by delivering 2x sales intelligence, shortening the research time by 10x and reducing non-selling activities by 50%, making the salesperson 5x more effective
+unlike hiring an expensive research team, or spending time Googling the prospects yourself.
+
+Enki’s proprietary NLP algorithms analyze internal (market research reports, notes, etc.) and external resources (web, news, earning call releases, Twitter, etc.) to bring market insights in front of the decision-makers. It acts like a personal assistant.
+Sales Executives and VCs are the first set of users. Enki replaces the manual process of reading various news feeds, earning call releases, 10Ks, transcripts, research reports, and bring personalized insights in front of decision-makers in a matter of minutes.
+
+Little about Chief Hacker:
+
+My entrepreneurial journey started in the startup hubs of Seattle, where I happily spent my weekends hacking away on creative ideas and building high-quality prototypes. After winning hackathons in varying disciplines from AI to Voice to Blockchain, I’ve come to realize my gift to leverage the latest tech to solve challenges no one else can. These experiences kicked off my passion to innovate new products and build startups.
+
+I began my career while I was in college, interning at multiple startups and fortune 500 companies. In my internships, I was fortunate to wear many hats: an engineer, a designer, a consultant, and a business specialist. After college, I was invited to be an engineer at Microsoft, where I was a part of the Windows, and Azure teams. I developed world-class experiences in software design and implementation, building scalable SaaS applications that served Microsoft's biggest customers around the world.
+
+Little about Chief Hustler:
+
+Nothing inspires me quite like challenging the status quo through technology-driven innovation. This passion drives me to build my startup, invest in new companies as an angel investor and become a mentor to help my peers.
+ I have always pushed the envelope in my entire career. I was one of the youngest managers in a Fortune 500 Oil and Gas company, had no marketing experience and ran marketing teams, had zero sales experience and made 7 figure sales within a year. I believe in constant learning, teamwork, and challenging the status quo. I enjoy stepping out of my comfort zone.
+ I met my co-founder, Chief Hacker at one of the data science hackathons about two years ago. Since then, we did many different projects and won multiple hackathons.
+ Our Values:
+
+Humility, transparency, integrity, and no-politics are in our core values.
+
+We must think alternatively and against industry norms to be successful, so all crazy ideas are welcomed to be tested.
+
+By the way, we leave our ego outside the door when searching for the best ideas.
+
+  Kıdem Düzeyi
+Orta-Üst Düzey Yönetici
+Sektör
+Bilgisayar Yazılımı Bilgi Hizmetleri Piyasa Araştırması
+İstihdam Türü
+Tam Zamanlı
+İş Alanları
+Mühendislik Bilgi Teknolojisi",Enki.AI,"Istanbul, Turkey","Bilgisayar Yazılımı,Bilgi Hizmetleri,Piyasa Araştırması",Tam Zamanlı,Mühendislik Bilgi Teknolojisi,Orta-Üst Düzey Yönetici,https://www.linkedin.com/jobs/search/?currentJobId=1492579024&keywords=Python&location=istanbul&start=25
